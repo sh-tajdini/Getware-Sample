@@ -1,5 +1,4 @@
 GetWare NLP Project: Harnessing Node, React, Redux, MongoDB, and SCSS for Advanced Natural Language Processing
-![Screen Shot 2023-10-09 at 11 55 48](https://github.com/sh-tajdini/Getware-Sample/assets/66368157/ccfadf46-c22d-42ad-9e66-6d3658fc00da)
 ![Screen Shot 2023-10-09 at 11 55 13](https://github.com/sh-tajdini/Getware-Sample/assets/66368157/34f8926a-f4cf-48f7-85b6-aa34326ab025)
 ![Screen Shot 2023-10-09 at 11 55 07](https://github.com/sh-tajdini/Getware-Sample/assets/66368157/f753661a-d405-457a-ab2d-b485e5c71c6c)
 ![Screen Shot 2023-10-09 at 11 55 02](https://github.com/sh-tajdini/Getware-Sample/assets/66368157/0980ab49-bae0-4e74-834a-0157633f95f6)
